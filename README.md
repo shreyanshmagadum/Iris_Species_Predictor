@@ -1,14 +1,3 @@
-# Iris_Species_Predictor
-🚀 Iris Species Predictor – A machine learning web app built using Streamlit and Scikit-Learn. This project trains a Random Forest model on the Iris dataset and provides a simple web interface for users to predict Iris flower species based on input features (sepal &amp; petal dimensions).
-📂 Features:
-✅ Converts the Iris dataset into a CSV file 📊
-✅ Trains and saves a Random Forest Classifier 🤖
-✅ Provides an interactive Streamlit web app for predictions 🌐
-✅ Lightweight, easy to run, and extendable 💡
+Automated-Model-Ensemble-Techniques-for-Improved-Accuracy
 
-⚡ Technologies Used:
-Python 🐍
-Streamlit 🎨
-Scikit-Learn 🤖
-Pandas 📊
-Joblib (for saving the model)
+The Iris dataset is a classic multiclass classification problem, where we have 50 samples from each of three species of Iris flowers (Iris setosa, Iris virginica, and Iris versicolor). Each sample is described by 4 features: sepal length, sepal width, petal length, and petal width
